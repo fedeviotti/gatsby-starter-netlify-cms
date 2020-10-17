@@ -8,6 +8,8 @@ featuredimage: /img/hydra-3840x2160-logo-red-4k-18170.png
 tags:
   - Federico
 ---
-> Rich text, qua formatto il testo come voglio.
+`Rich text, qua formatto il testo come voglio.`
+
+Ma non riesco a vederlo.
 
 ![](/img/hydra-3840x2160-logo-red-4k-18170.png)
